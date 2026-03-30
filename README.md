@@ -28,7 +28,7 @@ This repository contains advanced computational analyses focusing on the dynamic
 
 ### 📂 [Immuno_Genomics_and_Pathways](./Immuno_Genomics_and_Pathways)
 *Focus: Immune microenvironment deconvolution and metabolic signaling.*
-- **[Metabolic Pathway Profiling](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Immuno_Genomics_and_Pathways/Pathway-Enrichment-and-Metabolic-Profiling.html)**: Distinguishing tumor vs. normal phenotypes through pathway enrichment.
+- **[Metabolic Pathway Profiling](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Immuno_Genomics_and_Microenvironment/Metabolic-Pathway-Profiling.html)**: Distinguishing tumor vs. normal phenotypes through pathway enrichment.
 - **[Immuno-Genomics & Tumor Evasion](./Immuno_Genomics_and_Pathways/Immuno-Genomics-and-Tumor-Evasion.pdf)**: Analysis of HLA typing, neoantigen presentation, and strategies for immune surveillance escape.
 
 ---
