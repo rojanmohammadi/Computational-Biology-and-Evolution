@@ -26,9 +26,10 @@ This repository contains advanced computational analyses focusing on the dynamic
 - **[Genomic Instability Rate Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Clonal_Evolution_and_CNA/Genomic-Instability-Rate.html)**: Quantifying alteration rates and branch lengths in clonal lineages.
 - **[Tumour Evolution & Phylogeny](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Clonal_Evolution_and_CNA/Tumour-Evolution-Phylogeny.html)**: Analysis of subclonal populations and phylogenetic tree reconstruction.
 
-### 📂 [Immuno_Genomics_and_Pathways](./Immuno_Genomics_and_Pathways)
+### 📂 [Immuno-Genomics & Pathways](./Immuno_Genomics_and_Pathways)
 *Focus: Immune microenvironment deconvolution and metabolic signaling.*
-- **[Metabolic Pathway Profiling](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Immuno_Genomics_and_Microenvironment/Metabolic-Pathway-Profiling.html)**: Distinguishing tumor vs. normal phenotypes through pathway enrichment.
+
+- **[Metabolic Pathway Profiling](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Computational-Biology-and-Evolution/blob/main/Immuno_Genomics_and_Pathways/Metabolic-Pathway-Profiling.html)**: Distinguishing tumor vs. normal phenotypes through pathway enrichment.
 - **[Immuno-Genomics & Tumor Evasion](./Immuno_Genomics_and_Pathways/Immuno-Genomics-and-Tumor-Evasion.pdf)**: Analysis of HLA typing, neoantigen presentation, and strategies for immune surveillance escape.
 
 ---
